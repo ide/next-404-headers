@@ -1,4 +1,4 @@
-# next-404-headers
+# next-error-headers
 
 Demo showing that Next.js serves custom headers even for error pages (e.g. 404s).
 
